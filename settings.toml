@@ -1,0 +1,6 @@
+data_type = "voc" 
+anno_path = "./sample_data/Annotations/"
+img_path = "./sample_data/JPEGImages/"
+show = false
+save = true
+output_path = "./output"
